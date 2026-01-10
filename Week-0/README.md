@@ -3,4 +3,4 @@
 - GitHub  repository created
 - Repository cloned locally
 - Folder structured finalized
-First comits completed
+- First comits completed
