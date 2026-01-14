@@ -6,3 +6,7 @@
 - print statements
 - Basic aritjmetic
 - Data types
+
+## Day 2
+- input() basics
+- type-conversion
