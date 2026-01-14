@@ -10,3 +10,10 @@
 ## Day 2
 - input() basics
 - type conversion
+
+## Day 3
+- Operators
+- Arithmetic operators
+- Relational operators
+- Assignment operators
+- Logical operators
