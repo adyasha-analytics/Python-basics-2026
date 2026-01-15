@@ -17,3 +17,9 @@
 - Relational operators
 - Assignment operators
 - Logical operators
+
+## Day 4
+- Loops
+- range
+- practice
+
