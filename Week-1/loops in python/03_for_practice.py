@@ -23,3 +23,29 @@ for val1 in nums1:
         print("number found at idx", idx)
     idx += 1
 
+# print numbers from 1 to 100
+
+for el in range(1, 101): #range (stop, start condition)
+    print(el)
+
+# print numbers from 100 to 1
+
+for el1 in range(100, 0, -1): #range (stop, start, step)
+    print(el1)
+
+# print the multiplication table of a number n
+
+n = int(input("rnter number :"))
+
+for el2 in range(1,11):
+    print(n * el2)
+
+# write a program to find the factorial of first n numbers. (using for)
+ 
+n1 = 5
+fact = 1
+
+for el3 in range(1, n1+1):
+    fact *= el3
+
+    print("factorial =el3", fact)
