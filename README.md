@@ -23,3 +23,6 @@
 - range
 - practice
 
+## Day 5
+- While loop
+- Practice While loop
