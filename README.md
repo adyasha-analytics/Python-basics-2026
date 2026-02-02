@@ -32,3 +32,4 @@
 - Even and Odd
 - Arithmatic
 - Type check
+- Input
