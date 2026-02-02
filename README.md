@@ -26,3 +26,9 @@
 ## Day 5
 - While loop
 - Practice While loop
+
+## Day 6
+- practice
+- Even and Odd
+- Arithmatic
+- Type check
