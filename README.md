@@ -33,3 +33,12 @@
 - Arithmatic
 - Type check
 - Input
+
+## Day 7
+- practice
+- variables
+- data type
+- input 
+- type conversion
+- operators
+- if-else
