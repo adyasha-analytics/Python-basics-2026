@@ -42,3 +42,10 @@
 - type conversion
 - operators
 - if-else
+
+## Day 8
+- revision
+- operator
+- input
+- if/eles
+- while loop basics
